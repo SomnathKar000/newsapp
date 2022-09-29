@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 23,
+  "articles": [
+    {
+      "source": { "id": "goteborgs-posten", "name": "Göteborgs-Posten" },
+      "author": "Sofia Boo,Mia Pettersson,Nana Eshelman Håkansson",
+      "title": "De uppmanade ihjälkörda mamman ta sitt liv",
+      "description": "Före detta svärföräldrarnas video: ”Kasta ned dig själv från bron så underlättar du för oss.”",
+      "url": "http://www.gp.se/nyheter/g%C3%B6teborg/f%C3%B6re-mordet-uppmanade-ihj%C3%A4lk%C3%B6rda-mamman-att-ta-sitt-liv-1.80081707",
+      "urlToImage": "https://www.gp.se/image/policy:1.80081703:1662047226/image.jpg?f=Wide%26w=1200%26%24p%24f%24w=834285a",
+      "publishedAt": "2022-09-01T17:46:49Z",
+      "content": null
+    },
+    {
+      "source": { "id": "info-money", "name": "InfoMoney" },
+      "author": null,
+      "title": "Senado aprova MP que permite a mães e pais dividir 60 dias extras da licença após nascimento do filho",
+      "description": "Lei determina ainda que as mulheres recebam o mesmo salário dos homens, quando exercerem a mesma função na empresa",
+      "url": "https://www.infomoney.com.br/minhas-financas/senado-aprova-mp-que-permite-a-maes-e-pais-dividir-60-dias-extras-da-licenca-apos-nascimento-do-filho/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2020/04/GettyImages-1158756364-1-1.jpg?quality=70",
+      "publishedAt": "2022-09-01T16:05:39Z",
+      "content": null
+    },
+    {
+      "source": { "id": "lequipe", "name": "L'equipe" },
+      "author": "L'EQUIPE",
+      "title": "Adam Ounas deux ans au LOSC, André Gomes prêté une saison",
+      "description": "L'ailier de Naples (ITA) et le milieu d'Everton (ANG) se sont engagés mercredi après-midi avec les Dogues. Qui tentent de trouver une porte de sortie à Yazici et Lihadji.",
+      "url": "https://www.lequipe.fr/Football/Actualites/Adam-ounas-deux-ans-au-losc-andre-gomes-prete-une-saison/1351517",
+      "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/adam-ounas-arrive-pour-deux-ans-au-losc-maurizio-borsari-aflo-presse-sports-presse-sports/1500000001681517/0:0,1997:1332-640-427-75/fabd4.jpg",
+      "publishedAt": "2022-09-01T15:47:00+00:00",
+      "content": "L'International algérien est suivi par le Portugais André Gomes, champion d'Europe 2016 avec José Fonte. Le LOSC se fait prêter une saison le milieu des Toffees sans option d'achat après avoir échoué… [+302 chars]"
+    },
+    {
+      "source": { "id": "der-tagesspiegel", "name": "Der Tagesspiegel" },
+      "author": null,
+      "title": "Das große Trotzdem",
+      "description": "Viel zu lange hat der UN-Bericht über Chinas Verbrechen an den Uiguren auf sich warten lassen. Doch ist er deshalb enttäuschend? Ein Kommentar.",
+      "url": "https://www.tagesspiegel.de/politik/menschenrechte-in-xinjiang-das-grosse-trotzdem/28651020.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/un-bericht-zur-menschenrechtslage-in-xinjiang/28651026/1-format530.jpg",
+      "publishedAt": "2022-09-01T15:37:00+00:00",
+      "content": "Bei Michelle Bachelet, der UN-Hochkommissarin für Menschenrechte, war es zwölf Minuten vor Mitternacht, als sie ihre letzte Genfer Amtshandlung vollzog und ihren Bericht zur Menschenrechtslage im chi… [+3294 chars]"
+    },
+    {
+      "source": { "id": "lequipe", "name": "L'equipe" },
+      "author": "L'EQUIPE",
+      "title": "Richard Carapaz s'impose sur la 12e étape de la Vuelta, Remco Evenepoel reste leader",
+      "description": "L'Équatorien Richard Carapaz (Ineos Grenadiers) a levé les bras au sommet du Penas Blancas sur la 12e étape de la Vuelta, jeudi. Tombé pendant l'étape, Remco Evenepoel a parfaitement géré la dernière ascension et reste maillot rouge.",
+      "url": "https://www.lequipe.fr/Cyclisme-sur-route/Actualites/Richard-carapaz-s-impose-sur-la-12e-etape-de-la-vuelta-remco-evenepoel-reste-leader/1351503",
+      "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/richard-carapaz-remporte-sa-4e-etape-sur-un-grand-tour-la-premiere-sur-la-vuelta-r-gomez-presse-spor/1500000001681500/0:0,1997:1332-640-427-75/e2482.jpg",
+      "publishedAt": "2022-09-01T15:21:00+00:00",
+      "content": "Richard Carapaz a sauvé sa Vuelta en remportant la douzième étape au sommet de la montée de Penas Blancas (18,9 km à 6,5 %), vendredi. L'Équatorien triomphe devant Wilco Kelderman (Bora-Hansgrohe) et… [+2603 chars]"
+    },
+    {
+      "source": { "id": "independent", "name": "Independent" },
+      "author": "Jon Kelvey",
+      "title": "Nasa reveals first ever image of planet outside our solar system taken by Webb telescope",
+      "description": "The Webb telescope has returned it’s first direct look at an alien world",
+      "url": "http://www.independent.co.uk/space/nasa-james-webb-image-exoplanet-photos-b2157611.html",
+      "urlToImage": "https://static.independent.co.uk/2022/09/01/15/STSCI-J-p2022-HIP65426b-f-1528x1130-1.jpg?quality=75&width=1200&auto=webp",
+      "publishedAt": "2022-09-01T14:33:39Z",
+      "content": "The James Webb Space Telescope has its first direct image of a distant exoplanet, an alien world outside of our Solar System. \r\nUsing a variety of instruments, Webb has returned multiple views of the… [+1863 chars]"
+    },
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Al Jazeera Staff",
+      "title": "Israeli court refuses to release prisoner Ahmad Manasra",
+      "description": "Manasra’s lawyers asked for his release citing his mental health condition, but the appeal was rejected.",
+      "url": "http://www.aljazeera.com/news/2022/9/1/israeli-court-refuses-to-release-prisoner-ahmad-manasra",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/08/2016-11-07T120000Z_2051860987_S1AEULLLABAA_RTRMADP_3_ISRAEL-PALESTINIANS-TEENAGER-STABBING.jpg?resize=1920%2C1440",
+      "publishedAt": "2022-09-01T13:53:43Z",
+      "content": "Israeli authorities have refused to release a Palestinian prisoner who was initially arrested in horrific circumstances as a 13-year-old and is suffering from a serious deterioration in his mental he… [+2739 chars]"
+    },
+    {
+      "source": { "id": "ars-technica", "name": "Ars Technica" },
+      "author": "Eric Berger",
+      "title": "NASA will pay Boeing more than twice as much as SpaceX for crew seats",
+      "description": "\"I don't know whether the business case closes today.\"",
+      "url": "https://arstechnica.com/science/2022/09/nasa-will-pay-boeing-more-than-twice-as-much-as-spacex-for-crew-seats/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/12/49258250868_d3ffed72fd_k-760x380.jpg",
+      "publishedAt": "2022-09-01T13:31:26+00:00",
+      "content": "Enlarge/ The Boeing CST-100 Starliner spacecraft is seen after it landed in White Sands, New Mexico, Sunday, Dec. 22, 2019. \r\n120 with 73 posters participating, including story author\r\nNASA confirmed… [+5689 chars]"
+    },
+    {
+      "source": { "id": "engadget", "name": "Engadget" },
+      "author": "https://www.engadget.com/about/editors/steve-dent",
+      "title": "SpaceX secures five more NASA astronaut missions as part of a $1.4 billion contract | Engadget",
+      "description": "NASA has ordered five more astronaut missions from SpaceX in a new $1.44 billion contract, raising the total number of Crew Dragon launches to 14..",
+      "url": "https://www.engadget.com/space-x-scores-five-more-astronaut-missions-with-14-billion-contract-113551494.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-09/a2bddbe0-29e3-11ed-bdff-f48bd955de6c",
+      "publishedAt": "2022-09-01T11:37:25.3084091Z",
+      "content": "As expected, NASA has ordered five more astronaut missions from SpaceX in a new $1.44 billion contract, raising the total number of Crew Dragon launches to 14. It's designed to ensure a steady flow o… [+1243 chars]"
+    },
+    {
+      "source": { "id": "cnn-es", "name": "CNN Spanish" },
+      "author": "CNN",
+      "title": "ANÁLISIS | Los gambitos legales de Trump ofrecen nuevas revelaciones y profundizan su riesgo político",
+      "description": "La defensa dispersa de Donald Trump en las semanas transcurridas desde el allanamiento a Mar-a-Lago solo ha expuesto la profundidad del lío que enfrenta.",
+      "url": "https://cnnespanol.cnn.com/2022/09/01/analisis-gambitos-legales-trump-riesgo-politico-trax/",
+      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2022/09/Trump-escenario.jpg?quality=100&strip=info",
+      "publishedAt": "2022-09-01T11:16:47Z",
+      "content": "¿Qué desafíos enfrenta Trump tras allanamiento en Mar-a-Lago? 5:43\r\n(CNN) -- La defensa dispersa de Donald Trump en las semanas transcurridas desde que los agentes del FBI descendieron a su complejo … [+10925 chars]"
+    },
+    {
+      "source": { "id": "cnn-es", "name": "CNN Spanish" },
+      "author": "CNN",
+      "title": "Alimentos ultraprocesados están relacionados con el cáncer y la muerte prematura, según estudios",
+      "description": "Los alimentos ultraprocesados incluyen sopas preempacadas, salsas, pizza congelada, comidas listas para servir y comidas de placer como perros calientes, salchichas, papas fritas, refrescos, galletas compradas en la tienda, pasteles, dulces, donas, helados y …",
+      "url": "https://cnnespanol.cnn.com/2022/09/01/alimentos-ultraprocesados-estan-relacionados-con-el-cancer-y-la-muerte-prematura-segun-estudios-trax/",
+      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2022/09/CNN-ultraprocesados.jpeg?quality=100&strip=info",
+      "publishedAt": "2022-09-01T10:16:50Z",
+      "content": "¿Sabes diferenciar un alimento procesado de uno natural? 1:14\r\n(CNN) -- Comer muchos alimentos ultraprocesados aumenta significativamente el riesgo de cáncer colorrectal en los hombres y puede provoc… [+7576 chars]"
+    },
+    {
+      "source": { "id": "google-news-br", "name": "Google News (Brasil)" },
+      "author": "Victor Correia",
+      "title": "TSE cede a militares e fará teste de integridade das urnas com eleitores",
+      "description": "Cobrado pelas Forças Armadas, presidente da Corte, Alexandre \r\nde Moraes, concorda em fazer avaliação de integridade das \r\nurnas eletrônicas com participação de cidadãos reais",
+      "url": "https://www.correiobraziliense.com.br/politica/2022/09/5033640-tse-cede-a-militares-e-fara-teste-de-integridade-das-urnas-com-eleitores.html",
+      "urlToImage": "https://midias.correiobraziliense.com.br/_midias/jpg/2022/08/31/675x450/1_31082022ea_22-26344316.jpg?20220901002810?20220901002810",
+      "publishedAt": "2022-09-01T08:54:00+00:00",
+      "content": "O presidente do Tribunal Superior Eleitoral (TSE), Alexandre de Moraes, cedeu às pressões de militares e se comprometeu a fazer um teste de integridade das urnas eletrônicas com a participação de ele… [+3474 chars]"
+    },
+    {
+      "source": { "id": "next-big-future", "name": "Next Big Future" },
+      "author": "Brian Wang",
+      "title": "SpaceX Will Fly Crew Dragon to Space Station Until 2030 | NextBigFuture.com",
+      "description": "NASA has awarded five additional missions to SpaceX for crew transportation services to the International Space Station as part of the agency’s Commercial",
+      "url": "https://www.nextbigfuture.com/2022/08/spacex-will-fly-crew-dragon-to-space-station-until-2030.html",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2022/08/crewdragonISS.jpeg",
+      "publishedAt": "2022-09-01T05:12:32Z",
+      "content": "Brian Wang is a Futurist Thought Leader and a popular Science blogger with 1 million readers per month. His blog Nextbigfuture.com is ranked #1 Science News Blog. It covers many disruptive technology… [+593 chars]"
+    },
+    {
+      "source": { "id": "la-gaceta", "name": "La Gaceta" },
+      "author": "La Gaceta",
+      "title": "Cristina, Los Pumas y algunos espejos inquietantes",
+      "description": "Cada vez que juegan Los Pumas, en algunos grupos de Whatsapp en los que se mezclan futboleros y aficionados al rugby empiezan las bromas y las chicanas: “¿Otra vez una derrota digna?” “¿Hasta cuándo…",
+      "url": "https://www.lagaceta.com.ar/nota/959294/opinion/cristina-pumas-algunos-espejos-inquietantes.html",
+      "urlToImage": "https://img.lagaceta.com.ar/fotos/notas/2022/09/01/premium_959294_202208312323250000002.jpg",
+      "publishedAt": "2022-09-01T05:07:33.7489321Z",
+      "content": null
+    },
+    {
+      "source": { "id": "next-big-future", "name": "Next Big Future" },
+      "author": "Brian Wang",
+      "title": "NASA Plans Saturday Artemis Launch Attempt | NextBigFuture.com",
+      "description": "NASA will target Saturday, Sept. 3 at 2:17 p.m. EDT, the beginning of a two-hour window, for the launch of Artemis I, the first integrated test of NASA’s",
+      "url": "https://www.nextbigfuture.com/2022/08/nasa-plans-saturday-artemis-launch-attempt.html",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2022/08/artemisSLS.jpeg",
+      "publishedAt": "2022-08-31T15:57:11Z",
+      "content": "NASA will target Saturday, Sept. 3 at 2:17 p.m. EDT, the beginning of a two-hour window, for the launch of Artemis I, the first integrated test of NASAs Orion spacecraft, Space Launch System (SLS) ro… [+1845 chars]"
+    },
+    {
+      "source": { "id": "goteborgs-posten", "name": "Göteborgs-Posten" },
+      "author": null,
+      "title": "Val 2022",
+      "description": "Senaste nyheterna från Val 2022",
+      "url": "https://www.gp.se/val-2022",
+      "urlToImage": "https://www.gp.se/polopoly_fs/3.200.1661761530!/images/se.gp/fallback-og-image.png",
+      "publishedAt": "2022-08-31T09:37:24.127072Z",
+      "content": null
+    },
+    {
+      "source": { "id": "nhl-news", "name": "NHL News" },
+      "author": "Tom Gulitti",
+      "title": "Niederreiter looks forward to game in Switzerland for NHL Global Series",
+      "description": "Nino Niederreiter was already excited about signing a two-year contract with the Nashville Predators on July 21 before he realized it meant he'll have a chance to play in his native Switzerland.",
+      "url": "https://www.nhl.com/news/nhl-global-series-homecoming-for-predators-nino-niederreiter/c-335415762",
+      "urlToImage": "https://cms.nhl.bamgrid.com/images/photos/335416158/1024x576/cut.jpg",
+      "publishedAt": "2022-08-31T04:00:44Z",
+      "content": "PARIS --Nino Niederreiter was already excited about signing a two-year contract with the Nashville Predators on July 21 before he realized it meant he'll have a chance to play in his native Switzerla… [+5066 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Mary Beth Griggs",
+      "title": "NASA’s Artemis I mission is about to blast the SLS megarocket toward the Moon",
+      "description": "NASA’s Artemis I mission will launch on August 29th. It will be the big debut for the Space Launch System (SLS) and will see the Orion spacecraft embark on a 42-day journey beyond the Moon.",
+      "url": "https://www.theverge.com/23321544/nasa-artemis-sls-orion-explained",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/N4_E7RZZNJyPbsWVlkEJj_b52UE=/0x62:2040x1130/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23327084/lgrush_220318_5079_0044.jpg",
+      "publishedAt": "2022-08-25T16:08:02Z",
+      "content": "Okay, space fans. The moment is almost here. NASA is about to launch its next-generation rocket for the first time and send it hurtling out beyond the Moon. Its going to be a wild time, but honestly,… [+8208 chars]"
+    },
+    {
+      "source": { "id": "goteborgs-posten", "name": "Göteborgs-Posten" },
+      "author": "GP",
+      "title": "Här är det senaste om valet 2022",
+      "description": "Den 11 september avgörs det vem som ska styra Sverige och Göteborg de kommande åren. Här rapporterar GP det senaste om valet.",
+      "url": "http://www.gp.se/nyheter/sverige/h%C3%A4r-%C3%A4r-det-senaste-om-valet-2022-1.79364296",
+      "urlToImage": "https://www.gp.se/image/policy:1.79518274:1662022851/image.jpg?f=Wide%26w=1200%26%24p%24f%24w=834285a",
+      "publishedAt": "2022-08-22T09:50:32Z",
+      "content": null
+    },
+    {
+      "source": { "id": "infobae", "name": "Infobae" },
+      "author": "anónimo",
+      "title": "El mensaje del Papa Francisco para Colombia tras casi dos semanas de estallido social",
+      "description": "Colombia completa 12 días de marchas y protestas por el marco del Paro Nacional.",
+      "url": "http://www.infobae.com/america/colombia/2021/05/09/el-mensaje-del-papa-francisco-para-colombia-tras-casi-dos-semanas-de-estallido-social/",
+      "urlToImage": "https://www.infobae.com/new-resizer/eoqPeeVdN7nY9WyieIM_0SmKU4o=/1200x628/filters:format(jpg):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/7QDF6UIL4FQSSWADWUD223K63M.jpg",
+      "publishedAt": "2021-05-09T00:00:00Z",
+      "content": "Luego de terminar el habitual rezo dominical del ángelus, el Papa Francisco, asomado hacia la plaza de San Pedro, se refirió este domingo a la violencia que Colombia ha evidenciado en casi dos semana… [+3367 chars]"
+    }
+  ]
+}

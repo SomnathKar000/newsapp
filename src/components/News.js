@@ -52,7 +52,6 @@ export default class News extends Component {
 
   fetchMoreData = async () => {
     this.setState({ page: this.state.page + 1 });
-
     const url = `https://newsapi.org/v2/top-headlines?country=${
       this.props.country
     }&category=${
@@ -67,12 +66,8 @@ export default class News extends Component {
     this.setState({
       articles: this.state.articles.concat(newData.articles),
       currentlemgth: 6 * this.state.page,
-      totalResults: newData.totalResults,
       loading: false,
     });
-    console.log(
-      this.state.currentlemgth + " results" + this.state.totalResults
-    );
   };
   render() {
     return (

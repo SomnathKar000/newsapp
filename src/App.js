@@ -118,3 +118,43 @@ export default class App extends Component {
     );
   }
 }
+
+// async componentDidMount() {
+//   this.props.setProgess(10);
+//   const url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=154ee2b242574d66b9784b411fed486c&page=${this.state.page}&pagesize=${this.props.pageSize}`;
+//   this.setState({ loading: true });
+//   let data = await fetch(url);
+//   this.props.setProgess(40);
+//   let parsedData = await data.json();
+//   this.props.setProgess(70);
+//   this.setState({
+//     articles: parsedData.articles,
+//     totalResults: parsedData.totalArticles,
+//     loading: false,
+//   });
+//   this.props.setProgess(100);
+// }
+
+// fetchMoreData = async () => {
+//   this.setState({ page: this.state.page + 1 });
+
+//   const url = `https://newsapi.org/v2/top-headlines?country=${
+//     this.props.country
+//   }&category=${
+//     this.props.category
+//   }&apiKey=154ee2b242574d66b9784b411fed486c&page=${
+//     this.state.page + 1
+//   }&pagesize=${this.props.pageSize}`;
+//   this.setState({ loading: true });
+//   let data = await fetch(url);
+//   let newData = await data.json();
+
+//   this.setState({
+//     articles: this.state.articles.concat(newData.articles),
+//     currentlemgth: 6 * this.state.page,
+//     totalResults: newData.totalResults,
+//     loading: false,
+//   });
+//   console.log(
+//     this.state.currentlemgth + " results" + this.state.totalResults
+//   );

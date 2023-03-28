@@ -33,6 +33,7 @@ export default class News extends Component {
     };
     document.title = `${this.capitaliz(this.props.category)} - NewsBond`;
   }
+  // my code
 
   async componentDidMount() {
     this.props.setProgess(10);

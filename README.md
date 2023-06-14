@@ -2,6 +2,8 @@
 
 A comprehensive news platform that aggregates top stories from around the world, featuring a customizable dashboard and advanced search capabilities.
 
+## Home page
+
 ![News Website](https://github-production-user-asset-6210df.s3.amazonaws.com/108184610/245699352-a21597dd-7cfe-45f8-9e2c-83c0574f2dca.png)
 ![News Website](https://github-production-user-asset-6210df.s3.amazonaws.com/108184610/245699366-c64075bc-82f5-4205-821f-3773dbd903ba.png)
 

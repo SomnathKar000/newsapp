@@ -55,9 +55,7 @@ export default class News extends Component {
     this.setState({ page: this.state.page + 1 });
     const url = `https://newsapi.org/v2/top-headlines?country=${
       this.props.country
-    }&category=${
-      this.props.category
-    }&apiKey=154ee2b242574d66b9784b411fed486c&page=${
+    }&category=${this.props.category}&apiKey=${process.env.REACT_APP_API_KEY}=${
       this.state.page + 1
     }&pagesize=${this.props.pageSize}`;
     this.setState({ loading: true });
@@ -114,4 +112,3 @@ export default class News extends Component {
     );
   }
 }
-//https://newsapi.org/v2/top-headlines?country=in&apiKey=36e1ad0f04c24bf185166544ceebcf98
